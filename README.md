@@ -1,1 +1,1 @@
-# socker.io-android-chat-demo-
+# socker.io-android-chat-client
